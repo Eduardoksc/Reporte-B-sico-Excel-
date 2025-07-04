@@ -25,3 +25,7 @@ Identificar los KPI más relevantes que permitan conocer el estado actual de ven
 - Elaboración de Gráficos (Inluye ICONOS interactivos)
 - Creación del Reporte 
 
+## Reporye Final 
+
+![Reprote1](https://github.com/user-attachments/assets/895cbbc4-43d1-4886-a42a-f0643955eb22)
+
