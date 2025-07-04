@@ -1,4 +1,4 @@
-# Reporte-Básico-Excel con COPILOT
+# Reporte-Básico-Excel con Copilot Studio
 Reporte en Excel (No inrteractivo)  que muestra los KPI más relevantes de un archivo de Ventas de un Profesional que presta servicios en Tecnologia de la Información. 
 
 ## Objetivo del Proyecto 
