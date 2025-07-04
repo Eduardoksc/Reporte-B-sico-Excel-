@@ -18,14 +18,14 @@ Identificar los KPI más relevantes que permitan conocer el estado actual de ven
 
 ## Proceso 
 
-- Carga y Limpieza en libro de MS excel 
+- Carga y Limpieza de datos en libro de MS excel 
 - Elaboración de Tablas dinamicas 
 - Prompts en MSCopilot 
 - Análisis más relevantes 
 - Elaboración de Gráficos (Inluye ICONOS interactivos)
 - Creación del Reporte 
 
-## Reporye Final 
+## Reporte Final 
 
 ![Reprote1](https://github.com/user-attachments/assets/895cbbc4-43d1-4886-a42a-f0643955eb22)
 
