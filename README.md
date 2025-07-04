@@ -7,3 +7,11 @@ Identificar los KPI más relevantes que permitan conocer el estado actual de ven
 ## DataSet
 
 <a href=https://github.com/Eduardoksc/Reporte-Basico-Excel/blob/main/ejemplo_analisis_independiente.xlsx>Data Set Ventas</a>
+
+## KPI´S
+
+- Servicio más vendido 
+- Mejor Cliente 
+- Servicio más Rentable
+- Medio de Pago más usado
+- Dia que más se vende 
